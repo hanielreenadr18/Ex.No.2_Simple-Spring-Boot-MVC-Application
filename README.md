@@ -175,5 +175,4 @@ spring.application.name=mvc
 <img width="1046" height="568" alt="image" src="https://github.com/user-attachments/assets/e7268fca-570d-49bb-9d68-3fd056cbfe29" />
 
 ## Result
-
 Thus the development of a simple Spring Boot MVC application is completed successfully
